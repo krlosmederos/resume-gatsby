@@ -1,148 +1,96 @@
 module.exports = {
-  siteTitle: "Hi! I'm Alvaro!",
+  siteTitle: "Hi! I'm Carlos Mederos!",
   siteDescription: `This is my personal website`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Alvaro Jimenez',
-  twitterUsername: 'ajimenezdev',
-  githubUsername: 'ajimenezdev',
+  authorName: 'Carlos Mederos',
+  twitterUsername: 'krlosmederos',
+  githubUsername: 'krlosmederos',
   authorAvatar: '/images/avatar.jpg',
-  authorDescription: `I'm a full-stack JS developer, currently focused in React/React Native development and blockchain solutions.<br/><br/>
-  I worked in multiple stacks (React, AngularJs, .Net, Java, Android...), environments and types of companies (Startup, medium size and big corporate).<br/><br/>
-  I currently work remotely as a frontend developer and mainly working with <strong>Javascript, React/ReactNative, NodeJS and Blockchain.</strong>`,
+  authorDescription: `I'm a Software Engineer, currently focused in .Net development and fintech solutions.<br/><br/>
+  I worked in multiple stacks (.Net, Typescript, SQL, Azure) and I'm starting as a Gopher.<br/><br/>
+  I currently work at a Chilean fintech as a Senior Software Developer and mainly working with <strong>ASP.NET Core, React, Azure, SQL Server</strong>`,
   skills: [
     {
-      name: 'HTML',
+      name: '.Net',
       level: 90,
     },
     {
-      name: 'CSS',
+      name: 'Azure',
       level: 85,
     },
     {
-      name: 'Javascript',
-      level: 90,
+      name: 'SQL',
+      level: 75,
     },
     {
       name: 'React',
-      level: 85,
+      level: 65,
     },
     {
-      name: 'ReactNative',
-      level: 80,
+      name: 'Typescript',
+      level: 60,
     },
     {
-      name: 'NodeJs',
-      level: 40,
+      name: 'Go',
+      level: 10,
     },
     {
       name: 'Git',
       level: 75,
     },
     {
-      name: 'Bitcoin',
-      level: 30,
-    },
-    {
-      name: 'Ethereum & smartcontract',
-      level: 30,
+      name: 'Microservices',
+      level: 60,
     },
   ],
   jobs: [
     {
-      company: 'Bitfinex',
+      company: 'Tanner',
       begin: {
-        month: 'oct',
+        month: 'nov',
         year: '2019',
       },
       duration: null,
-      location: 'Remote',
-      occupation: 'Mobile Engineer',
+      location: 'Santiago, CL',
+      occupation: 'Senior Software Developer',
       description:
-        'Working mainly with ReactNative as part of the Mobile development team, handling any task related to improve or fix existing features and developing new ones.',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
     {
-      company: 'Lifelabs.io',
+      company: 'Gosocket',
       begin: {
-        month: 'may',
+        month: 'dec',
         year: '2018',
       },
-      duration: '1 years and 5 months',
-      location: 'UK - Remote',
-      occupation: 'Lead Frontend Developer',
-      description:
-        'I joined the company as one of the main developers, leading the frontend and mobile app development and helping with the architecture and coordination of the backend and blokchain teams.',
-    },
-    {
-      company: 'Flipper',
-      begin: {
-        month: 'oct',
-        year: '2015',
-      },
-      duration: '2 years and 7 months',
-      location: 'London, UK',
-      occupation: 'Senior Developer',
-      description:
-        'I joined the company as one of the first 5 employees, I have been involved in all technical areas (backend, frontend, db, devops, bi) but with a higher responsibility on frontend, which I was leading inside the team',
-    },
-    {
-      company: 'Radisson Blu Edwardian London',
-      begin: {
-        month: 'oct',
-        year: '2013',
-      },
-      duration: '2 years',
-      location: 'London, UK',
-      occupation: 'Software developer',
-      description:
-        'Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool.',
-    },
-    {
-      company: 'HotelBeds',
-      begin: {
-        month: 'oct',
-        year: '2012',
-      },
       duration: '1 year',
-      location: 'Majorca, Spain',
-      occupation: 'Software developer',
+      location: 'Santiago, CL',
+      occupation: 'Senior Software Developer',
       description:
-        'Member of a team in charge to create a new website to sell complementary holidays tickets and excursions, integrated inside the existing booking engine.',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
     {
-      company: 'Brujula',
+      company: 'Freelance',
       begin: {
-        month: 'feb',
-        year: '2012',
+        month: 'apr',
+        year: '2018',
       },
-      duration: '7 months',
-      location: 'Majorca, Spain',
-      occupation: 'Junior developer',
+      duration: '9 months',
+      location: 'Santiago, CL',
+      occupation: 'Full Stack Developer',
       description:
-        'Working in a team for a third party company as a development house, in charge of their intranet site to manage all the information about new customers, employees, keep the stock up to date and some other small applications.',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
     {
-      company: 'Bizzit',
+      company: 'Universidad de la Isla de la Juventud',
       begin: {
-        month: 'jul',
-        year: '2010',
+        month: 'sept',
+        year: '2017',
       },
-      duration: '3 months',
-      location: 'Majorca, Spain',
-      occupation: 'Intern developer',
+      duration: '8 months',
+      location: 'Isle of Youth, CU',
+      occupation: 'Assistant Teacher',
       description:
-        'Summer internship, Working with the company intranet site, creating new features and fixing some of the existing bugs.',
-    },
-    {
-      company: 'Bizzit',
-      begin: {
-        month: 'jul',
-        year: '2009',
-      },
-      duration: '3 months',
-      location: 'Majorca, Spain',
-      occupation: 'Intern developer',
-      description:
-        'Summer internship, Working with the company intranet site, creating new features and fixing some of the existing bugs.',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
   ],
   publications: [
@@ -171,11 +119,11 @@ module.exports = {
   ],
   education: [
     {
-      school: 'University of Balearic Islands',
+      school: 'Universidad Tecnologica de la Habana',
       degree: 'Bachelor degree',
-      field: 'Software Engineering',
-      startYear: 2006,
-      endYear: 2011,
+      field: 'Process Control Engineering',
+      startYear: 2012,
+      endYear: 2017,
     },
   ],
   languages: [
@@ -185,55 +133,51 @@ module.exports = {
       code: 'ES',
     },
     {
-      language: 'Catalan',
-      level: 'Native tongue',
-    },
-    {
       language: 'English',
-      level: 'Fluid Written & Spoken',
+      level: 'Intermediate Written & Spoken',
       code: 'GB',
     },
   ],
   social: {
-    twitter: 'https://twitter.com/ajimenezdev/',
-    linkedin: 'https://www.linkedin.com/in/alvarojimenezmartin/',
-    github: 'https://github.com/ajimenezdev/',
-    email: 'ajmjimens@gmail.com',
+    twitter: 'https://twitter.com/krlosmederos/',
+    linkedin: 'https://www.linkedin.com/in/krlosmederos/',
+    github: 'https://github.com/krlosmederos/',
+    email: 'krlosmederos@gmail.com',
   },
   hobbies: [
+    {
+      name: 'Baseball',
+      icon: 'FaBaseballBall',
+    },
     {
       name: 'Football',
       icon: 'FaFutbol',
     },
     {
-      name: 'Photography',
-      icon: 'FaCamera',
+      name: 'Code',
+      icon: 'FaCode',
     },
-    {
-      name: 'Hiking',
-      icon: 'FaHiking',
-    },
-    {
-      name: 'Traveling',
-      icon: 'FaPlane',
-    },
-    {
-      name: 'Movies & Series',
-      icon: 'FaTv',
-    },
+    // {
+    //   name: 'Traveling',
+    //   icon: 'FaPlane',
+    // },
+    // {
+    //   name: 'Movies & Series',
+    //   icon: 'FaTv',
+    // },
   ],
-  siteUrl: 'https://alvarojimenezmartin.com',
+  siteUrl: 'https://krlosmederos.info',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-4492763-3',
+  googleAnalyticsId: 'UA-165032179-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
   display: 'minimal-ui',
   icon: 'src/favicon.jpg',
-  resume: '/resume_alvaro_jimenez.pdf',
+  resume: '/not_found.pdf',
   headerLinks: [
     // {
-    //   label: 'Alvaro Jimenez Martin',
+    //   label: '@krlosmederos',
     //   url: '/',
     // },
     {
@@ -248,10 +192,10 @@ module.exports = {
       label: 'Experience',
       url: 'experience',
     },
-    {
-      label: 'Publications',
-      url: 'publications',
-    },
+    // {
+    //   label: 'Publications',
+    //   url: 'publications',
+    // },
     {
       label: 'Education',
       url: 'education',

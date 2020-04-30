@@ -96,7 +96,7 @@ const Header = ({ className }) => {
 export default styled(Header)`
   .header {
     display: flex;
-    /* align-items: center; */
+     align-items: center; 
   }
   .header__smallScreen {
     display: none;

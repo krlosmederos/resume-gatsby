@@ -123,7 +123,7 @@ class Home extends React.Component {
               {/* <Separator />
             <Repositories /> */}
               <Separator />
-              <Publications />
+              {/* <Publications /> */}
               <Separator />
               <Education />
               <Separator />
