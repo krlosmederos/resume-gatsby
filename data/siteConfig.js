@@ -8,7 +8,7 @@ module.exports = {
   authorAvatar: '/images/avatar.jpg',
   authorDescription: `I'm a Software Engineer, currently focused in .Net development and fintech solutions.<br/><br/>
   I worked in multiple stacks (.Net, Typescript, SQL, Azure) and I'm starting as a Gopher.<br/><br/>
-  I currently work at a Chilean fintech as a Senior Software Developer and mainly working with <strong>ASP.NET Core, React, Azure, SQL Server</strong>`,
+  I currently work at a Chilean fintech as a Senior Software Developer and mainly working with <strong>ASP.NET Core, React, Azure, SQL Server, Kubernetes</strong>.`,
   skills: [
     {
       name: '.Net',
